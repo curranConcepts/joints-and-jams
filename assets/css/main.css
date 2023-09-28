@@ -2584,7 +2584,7 @@ input[type="reset"].primary,
 input[type="button"].primary,
 button.primary,
 .button.primary {
-  background-color: #ed4933;
+  background-color: #fe7f2d;
   box-shadow: none !important;
   color: #ffffff !important;
 }
@@ -4124,4 +4124,9 @@ body.is-mobile.landing .wrapper.style4 {
 
 body.is-mobile.landing #footer {
   background-color: #1d242a;
+}
+
+#note {
+  font-size: 10px;
+  color: rgba(182, 180, 180, 100);
 }
